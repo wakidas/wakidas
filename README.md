@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakidas&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/wakidas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakidas&langs_count=8&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/wakidas/github-readme-stats)
 <!--
 **wakidas/wakidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
