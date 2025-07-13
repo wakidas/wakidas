@@ -1,4 +1,7 @@
-### Hi there 👋
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,jquery,astro,ruby,rails,php,laravel,aws,mysql,postgres,docker,neovim&perline=8)](https://skillicons.dev)
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakidas&langs_count=8&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/wakidas/github-readme-stats)
 <!--
@@ -15,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Social Media
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/shimpeee_)
